@@ -1,21 +1,21 @@
 #!/bin/bash
 #
-# Name: filediff.sh - Überprüft, ob genug Argumente mitgegeben wurde.
+# Name: u4_1_file_diff.sh - Überprüft, ob genug Argumente mitgegeben wurde.
 # -----------------
-# SYNOPSIS: filediff.sh [OPTION]
+# SYNOPSIS: u4_1_file_diff.sh [OPTION]
 # Description: Überprüft, ob genug Argumente mitgegeben wurde.
-# filediff  -> Erste Datei
-# filediff -> Zweite Datei
+# u4_1_file_diff  -> Erste Datei
+# u4_1_file_diff -> Zweite Datei
 #
 # Autoren: R. Stalder
 # Version: 1.0.0
 # Datum: 14.9.2021
 #
-# Aufrufen mit '. filediff.sh'
+# Aufrufen mit '. u4_1_file_diff.sh'
 
 if test $# -ne 2; then
   echo "Sie mussen zwei Dateinamen als Argumente eingeben!"
-  echo "Usage: filediff.sh dateiname1 dateiname2"
+  echo "Usage: u4_1_file_diff.sh dateiname1 dateiname2"
 else
   if test -e $1; then
     echo "Die Datei existiert"
