@@ -1,0 +1,12 @@
+total 1064
+-rw-rw----  1 robinstalderschule  staff     272 Nov  2 16:50 07-Testprocessing.sh
+-rwxr-xr-x@ 1 robinstalderschule  staff     127 Jan 31  2011 Passwort.txt
+-rwxr-xr-x@ 1 robinstalderschule  staff      71 Jan 31  2011 Person.txt
+-rw-rw----@ 1 robinstalderschule  staff  512366 Nov  2 16:49 U7_1_Lernaufgabe - Achtung Umleitung.pdf
+-rwxr-xr-x@ 1 robinstalderschule  staff       0 Jan 31  2011 UserAndPw.txt
+-rwxr-xr-x@ 1 robinstalderschule  staff       0 Jan 31  2011 UserKlasse.txt
+-rwxr-xr-x@ 1 robinstalderschule  staff     450 Jan 31  2011 fox1.txt
+-rwxr-xr-x@ 1 robinstalderschule  staff     460 Jan 31  2011 fox2.txt
+-rwxr-xr-x@ 1 robinstalderschule  staff     454 Jan 31  2011 fox3.txt
+-rw-rw----  1 robinstalderschule  staff       0 Nov  2 16:50 ls-l.txt
+-rwxr-xr-x@ 1 robinstalderschule  staff     166 Jan 31  2011 testfile.txt
